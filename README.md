@@ -2,7 +2,7 @@
 Un gabarit LaTeX pour faire votre rapport de stage en génie.
 
 - [Extrait_du_pdf_produit](#extrait_du_pdf_produit)
-- [Extrait du document LaTeX](#extrait_du_document_latex))
+- [Extrait du document LaTeX](#extrait_du_document_latex)
 
 ## extrait_du_pdf_produit
 ![image](https://user-images.githubusercontent.com/88633026/129640429-5d95b0da-2922-4695-bd86-b42cd480a189.png)
