@@ -1,7 +1,7 @@
 # ulaval-gabarit-rapport-stage
 Un gabarit LaTeX pour faire votre rapport de stage en génie.
 
-- [Extrait_du_pdf_produit](#extrait_du_pdf_produit)
+- [Extrait du pdf produit](#extrait_du_pdf_produit)
 - [Extrait du document LaTeX](#extrait_du_document_latex)
 
 ## extrait_du_pdf_produit
