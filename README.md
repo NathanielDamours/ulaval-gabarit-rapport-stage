@@ -11,5 +11,5 @@ Un gabarit LaTeX pour faire votre rapport de stage en génie.
 
 
 ## extrait_du_document_latex
-Comme vous pouvez le voir plusieurs commentaires ont été ajouté pour guider l'écriture de votre rapport.
+Comme vous pouvez le voir plusieurs commentaires ont été ajoutés pour guider l'écriture de votre rapport.
 ![image](https://user-images.githubusercontent.com/88633026/129640534-505b59a6-9def-4c49-aad7-3fe7cfd19142.png)
