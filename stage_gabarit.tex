@@ -8,7 +8,7 @@
 \usepackage{hyperref}	% Inclure les liens
 \usepackage{graphicx}	% Inclure des images
 \topskip0pt  % Permet \vspace*{\fill} pour centrer verticalement
-
+\usepackage{xcolor} % Texte coloré
 
 \begin{document}
 
@@ -183,7 +183,48 @@
 % Académique ou marché du travail? Réflexion sur l’intérêt pour ce type de mandat après un stage. Recommandations, etc.
 
 
+\section{TUTORIEL POUR LA BIBLIOGRAPHIE}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textbf{
+	\textcolor{red}{
+		Enlevez les sections TUTORIEL avant la remise de votre rapport
+						   }	
+           }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ajoutez vos sources au document \textbf{references.bib}.
+
+\textbf{Citer une source} : \textbackslash cite\{SOURCE\} pour obtenir ceci : \cite{howard2020deep}.
+
+\textbf{Citer plusieurs sources} : \textbackslash cite\{SOURCE1, SOURCE2\} pour obtenir ceci : \cite{goodfellow2014generative, CycleGAN2017}.
+
+\textbf{Citer une figure} : \textbackslash ref\{fig:NOM\}. Par exemple, voir la Figure~\ref{fig:gan} ou voir la Figure~\ref{fig:fastbook} en annexe.
+
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=0.4]{img/gan_img.jpg}
+	\end{center}
+  \caption{Figure dans le texte~\cite{CycleGAN2017}}
+  \label{fig:gan}
+\end{figure}
+
 \newpage
-\section{Annexe}
+\appendix
+
+\section{TUTORIEL (SUITE)}
+
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.3]{img/fastbook.png}
+	\end{center}
+  \caption{\cite{howard2020deep}}  % Il faut le faire comme ça. J'ai des échanges de courriels pour le supporter.
+  \label{fig:fastbook}
+\end{figure}
+
+
+\newpage
+\bibliographystyle{IEEEtran}  % « La bibliographie est la seule chose que vous pouvez structurer en anglais notamment les références IEEE qui ont une rigueur stricte. »(Adjoint à la coordination des stages)
+\bibliography{references}
 
 \end{document}

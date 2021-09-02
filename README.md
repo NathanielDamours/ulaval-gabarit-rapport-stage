@@ -10,8 +10,8 @@ Un gabarit LaTeX pour faire votre rapport de stage en génie de l'Université La
 
 ![image](https://user-images.githubusercontent.com/88633026/129640429-5d95b0da-2922-4695-bd86-b42cd480a189.png)
 
-![image](https://user-images.githubusercontent.com/88633026/129640389-26ff246e-c11b-40e2-8727-b0e1d0d9e461.png)
-
+![image](https://user-images.githubusercontent.com/88633026/131910453-2e2de8b7-002e-4373-853a-b9697e080799.png)
+![image](https://user-images.githubusercontent.com/88633026/131910777-82f2d3e8-aa65-40bf-ae71-f5571fc1362d.png)
 
 ## Extrait du document LaTeX
 
